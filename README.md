@@ -52,11 +52,11 @@ Logistic Regression:
 
 ## Visualizations
 
-![Alcohol vs Quality](images/alcohol_vs_quality.png)
+![Alcohol vs Quality](image/alcohol_vs_quality.png)
 
 ![Feature Importance](images/feature_importance.png)
 
-![Alcohol Boxplot by Quality](images/boxplot_quality_alcohol.png)
+![Alcohol Boxplot by Quality](image/boxplot_quality_alcohol.png)
 
 ## Future Improvements
 
